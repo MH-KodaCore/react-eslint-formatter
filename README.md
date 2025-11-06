@@ -22,8 +22,8 @@ While prettier formats css out of the box, you need to install additional plugin
 
 ## Helpful resources
 
-[Why eslint stylystic ?](https://eslint.style/guide/why)
-[Anthony Fu's Why I don't use Prettier](https://antfu.me/posts/why-not-prettier)
+- [Why eslint stylystic ?](https://eslint.style/guide/why)
+- [Anthony Fu's Why I don't use Prettier](https://antfu.me/posts/why-not-prettier)
 
 ## Conclusion
 
